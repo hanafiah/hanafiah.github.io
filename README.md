@@ -1,4 +1,5 @@
 hanafiah.github.io
 ==================
 
-test pages
+wanna setup page like this?
+https://pages.github.com/
